@@ -58,3 +58,10 @@ E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectMa
 E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Migrations.InitialMigration1.resources
 E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Migrations.InitialMigration2.resources
 E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Migrations.InitialMigration3.resources
+E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\bin\Antlr3.Runtime.dll
+E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\bin\Newtonsoft.Json.dll
+E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\bin\System.Web.Optimization.dll
+E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\bin\WebGrease.dll
+E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\bin\Antlr3.Runtime.pdb
+E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\bin\Newtonsoft.Json.xml
+E:\My_Project\GitHub\Project-Management-System\ProjectManagementSystem\ProjectManagementSystem\bin\System.Web.Optimization.xml
